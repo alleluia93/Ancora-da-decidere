@@ -15,8 +15,8 @@
 	],
 	"Plugins": [
 		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
 		}
 	]
 }
